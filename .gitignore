@@ -1,0 +1,17 @@
+# UE5 临时/缓存/编译输出
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+/Plugins/*/Binaries/
+/Plugins/*/Intermediate/
+
+# VS 工程文件
+*.sln
+*.vcxproj*
+*.user
+/.vs/
+
+# 日志/缓存
+*.log
+*.tmp
